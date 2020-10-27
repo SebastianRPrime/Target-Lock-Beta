@@ -1,4 +1,3 @@
-  
 #include <iostream>
 #include <string>
 using namespace std;
@@ -32,3 +31,6 @@ int main()
 		cout << "Invalid operation, restart the program." << endl;
 	else
 		cout << num1 << choice << num2 << "=" << answer << endl;
+
+	return 0;
+}
